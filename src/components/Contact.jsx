@@ -107,7 +107,7 @@ const Contact = () => {
             <textarea
               rows={7}
               name='message'
-              value="As I am a AI, full-stack developer, I am looking for a client to whom I can contribute my skills and passion."
+              value="As I am an experienced Full-stack developer especially proficient in Business Website, I am looking for a client to whom I can contribute my skills and passion."
               onChange={handleChange}
               placeholder='What I want to say?'
               className='bg-customize py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
