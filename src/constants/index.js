@@ -69,7 +69,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "AI",
+    title: "AI Bot",
     icon: creator,
   },
 ];
