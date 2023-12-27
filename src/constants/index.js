@@ -191,7 +191,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it would take at leat 2 months to create our website because it required extracting detailed data from all famous Car companies. However. thanks to Huraki's web scraping skills, we were able to launch a perfect website in just three weeks",
+      "I thought it would take at leat 2 months to create our website because it required extracting detailed data from all famous Car companies. However. thanks to Haruki's web scraping skills, we were able to launch a perfect website in just three weeks",
     name: "Sara Lee",
     designation: "CEO",
     company: "Navantis",
@@ -199,7 +199,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a developer who truly cares about their clients' success like Huraki does. He's notable strength is Client satisfaction",
+      "I've never met a developer who truly cares about their clients' success like Haruki does. He's notable strength is Client satisfaction",
     name: "Chris Brown",
     designation: "CFO",
     company: "Tucows Inc",
@@ -207,7 +207,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Huraki Murakami helped businesses improve our lead management processes by developing efficient lead tracking and management systems, and by providing training and support to the sales team. I have no doubt he's one of the best lead generation experts around!",
+      "Haruki Murakami helped businesses improve our lead management processes by developing efficient lead tracking and management systems, and by providing training and support to the sales team. I have no doubt he's one of the best lead generation experts around!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "FreshBooks",

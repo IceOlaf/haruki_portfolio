@@ -42,7 +42,7 @@ const Navbar = () => {
         >
           <img src={logo} alt='logo' className='w-9 h-9 logo-ice object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Huraki &nbsp;
+            Haruki &nbsp;
             <span className='sm:block hidden'> | Full-Stack</span>
           </p>
         </Link>

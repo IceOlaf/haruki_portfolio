@@ -85,7 +85,7 @@ const Contact = () => {
             <input
               type='text'
               name='name'
-              value="Huraki Murakami"
+              value="Haruki Murakami"
               onChange={handleChange}
               placeholder="What's my good name?"
               className='bg-customize py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
